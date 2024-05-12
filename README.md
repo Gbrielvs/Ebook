@@ -35,7 +35,6 @@ seguem abaixo.
 - Imagens geradas via Bing
 
 
-
 ## 👨‍💻 Expert
 
 <p>
@@ -43,11 +42,11 @@ seguem abaixo.
       align=left 
       margin=10 
       width=80 
-      src="[https://github.com/Gbrielvs/Gbrielvs"]
+      src="[https://www.linkedin.com/in/gabrielalves-silva/"]
     />
     <p>&nbsp&nbsp&nbsp Gabriel Alves da Silva<br>
     &nbsp&nbsp&nbsp
-    <a href="https://www.linkedin.com/in/gabrielalves-silva/">
+    <a href="https://github.com/Gbrielvs/Gbrielvs">
     GitHub</a>&nbsp;|&nbsp;
     <a href="">LinkedIn</a>
 &nbsp;|&nbsp;
