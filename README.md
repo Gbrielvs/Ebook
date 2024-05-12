@@ -38,7 +38,7 @@ seguem abaixo.
       width=80 
       src="[https://github.com/Gbrielvs/Gbrielvs"]
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbsp Gabriel Alves da silva<br>
     &nbsp&nbsp&nbsp
     <a href="https://www.linkedin.com/in/gabrielalves-silva/">
     GitHub</a>&nbsp;|&nbsp;
