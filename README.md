@@ -27,7 +27,9 @@ seguem abaixo.
 - [Bing](https://www.midjourney.com/app/)
 - [Canva](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-
+<h1>
+    Pedro Lindo
+</h1>
 
 ## ✨ Features
 
